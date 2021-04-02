@@ -1,0 +1,4 @@
+{
+  "mongooURI": "mongodb+srv://zidan:020700ZzZidan@cluster0.3n2ee.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
