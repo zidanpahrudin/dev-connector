@@ -1,4 +1,6 @@
 {
   "mongooURI": "mongodb+srv://zidan:020700ZzZidan@cluster0.3n2ee.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "809e630c4c7830c9501a",
+  "githubSecret": "a08739a4cac7bb1c369ce51185ee271dd5bc70d1"
 }
